@@ -1,2 +1,2 @@
 # GIM
-Proyectos desarrollados durante mi Grado en Ingeniería Multimedia
+Algunos de los proyectos desarrollados durante mi Grado en Ingeniería Multimedia
